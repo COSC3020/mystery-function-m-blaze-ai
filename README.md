@@ -11,3 +11,6 @@ function mystery(a) {
     else return a[0];
 }
 ```
+
+The 'mystery()' function compares the first element of the array to the array's
+maximum value and returns the larger value.
